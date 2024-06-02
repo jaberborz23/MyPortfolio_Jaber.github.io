@@ -1,0 +1,728 @@
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+    
+   
+}
+ul{
+    list-style: none;
+    
+    
+    
+} li{
+    list-style:none ;
+}
+a{
+    text-decoration: none;
+}
+.container{
+    width:1320px;
+}
+#nav{
+    padding: 60px 0; 
+    background-color: #1E1E1E;
+
+}
+.nv_1{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+}
+.menu ul{
+    display:flex;
+   
+
+}
+.icon{
+    margin-left:45px;
+   
+}
+.menu ul{
+    margin-left:45px
+
+}
+.menu ul li{
+    
+    padding: 0px 27px ;
+    font-weight: 400;
+    font-size:21px;
+    line-height:24.89px;
+    color:#FFFFFF;
+    font-family: "Rubik", sans-serif ;
+
+}
+a.btn{
+    padding: 18px 26px ;
+    background:#FD6F00;
+    font-weight: 400;
+    font-size:21px;
+    line-height:24.89px;
+    color:#FFFFFF;
+    text-align:justified;
+    font-family: "Rubik", sans-serif ;
+
+}
+.icon h2{
+    font-weight: 700;
+    font-size:32px;
+    line-height:48px;
+    font-family: "Poppins", sans-serif ;
+    letter-spacing:3%;
+    color:rgba(253, 111, 0, 1);
+
+}
+#banner{
+    padding: 90px 0;
+    background-color: #1E1E1E;
+
+}
+.bn_1{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+   
+
+}
+.bn_wr{
+    margin-top:83px;
+    margin-left:25px;
+}
+
+.bn_wr h1{
+    font-weight: 800;
+    font-size:40px;
+    line-height:47.4px;
+    color:#FFFFFF;
+    font-family: "Rubik", sans-serif ;
+
+}
+.bn_wr i{
+    font-size:24px;
+    rotate:3.97deg;
+    color:#FD853A;
+
+
+}
+.bn_wr p{
+    font-weight: 400;
+    font-size:18px;
+    line-height:21.33px;
+    color:#808080;
+    letter-spacing:3%;
+    font-family: "Rubik", sans-serif ;
+
+}
+.bn_design{
+    display:flex;
+    margin-top:23px;
+    
+}
+.bn_design li{
+    font-weight: 300;
+    font-size:24px;
+    line-height:28.44px;
+    color:#FFFFFF;
+    letter-spacing:-1.5%;
+    padding:0px 24px;
+    font-family: "Rubik", sans-serif ;
+
+
+}
+.bn_design i{
+    font-size:24px;
+    rotate:3.97deg;
+    color:#FD853A;
+
+}
+.bn_btn{
+    width:367px;
+    height:82px;
+    padding:10px;
+    border:2px;
+    border-radius:50px;
+    gap:10px;
+    background:#333333;
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    margin-top:25px;
+    font-family: "Rubik", sans-serif ;
+}
+.b_en{
+    margin-top:0px
+}
+.btn_en{
+    padding: 10px 20px ;
+    background:#FD6F00;
+    border-radius:60px;
+    font-weight: 400;
+    font-size:25.69px;
+    line-height:30.44px;
+    color:#FFFFFF;
+    text-align:justified;
+    letter-spacing:-1.5%;
+    font-family: "Rubik", sans-serif ;
+
+}
+.btn_en_2{
+    padding: 10px 20px ;
+    background:#1a1a1a;
+    border-radius:60px;
+    font-weight: 400;
+    font-size:25.69px;
+    line-height:30.44px;
+    color:#FFFFFF;
+    text-align:justified;
+    font-family: "Rubik", sans-serif ;
+    letter-spacing:-1.5%;
+
+}
+.btn_en i{
+    font-size:17.5px;
+    color:#FFFFFF;
+    
+}
+.icon_bn{
+    display:flex;
+    margin-top:23px;
+
+}
+.icon_bn i{
+    padding:0 14px;
+    rotate:0deg;
+}
+#about{
+    padding:45px 0;
+    background-color: #1E1E1E;
+    position:relative;
+
+}
+.about_row{
+    background:#000000; 
+  position:absolute;
+   padding:34px 100px;
+    rotate:-3.97deg;
+    top:-120px;
+
+}
+.skill ul{
+   
+    display:flex;
+    align-items:center;
+    justify-content:space-evenly;
+}
+.skill ul li{
+    padding: 0 12px;
+    font-weight: 400;
+    font-size:24px;
+    line-height:37.92px;
+    color:#FFFFFF;
+    letter-spacing:-1.5%;
+    font-family: "Rubik", sans-serif ;
+    
+    
+}
+.skill ul li i{
+    color:#333333;
+}
+.about_wr{
+    margin-top:78px;
+    display:flex;
+    justify-content:space-evenly;
+    align-items:center;
+}
+.ab_1 h2{
+    font-weight: 800;
+    font-size:40px;
+    line-height:47.4px;
+    color:#FFFFFF;
+    letter-spacing:-1.5%;
+    font-family: "Rubik", sans-serif ;
+}
+.ab_1 p{
+    gap: 43px;
+    font-weight: 400;
+    font-size:18px;
+    line-height:21.33px;
+    color:#808080;
+    letter-spacing:-1.5%;
+    width:541px;
+    padding-top:12px;
+    font-family: "Rubik", sans-serif ;
+
+}
+.ab_2 h6{
+    font-weight: 400;
+    font-size:20px;
+    line-height:20px;
+    text-align:center;
+    color:#FFFFFF;
+    letter-spacing:-1.5%;
+    font-family: "Rubik", sans-serif ;
+
+}
+.ab_2 h2{
+    font-weight: 700;
+    font-size:47px;
+    Line-height:47px;
+    text-align:center;
+    color:#FFFFFF;
+    letter-spacing:-1.5%;
+    font-family: "Rubik", sans-serif ;
+}
+.ab_2_wr{
+    margin-top:22px;
+}
+
+.star{
+    display:flex;
+}
+.star i{
+    padding:0 14px; 
+    color:#FD853A;
+    font-size:25.34px;
+}
+#experience{
+    background: linear-gradient(270.16deg, rgba(255, 177, 71, 0.1) 5.74%, rgba(255, 108, 99, 0.1) 50.64%, rgba(184, 106, 223, 0.1) 92.05%);
+
+    padding: 145px 0;
+}
+.exp{
+    display:flex;
+    justify-content:space-around;
+    align-items:center;
+}
+.exp_1 h4{
+    font-weight: 600;
+    font-size:18px;
+    line-height:24px;
+    font-style:italic;
+   padding-top:12px;
+    color:#352D23;
+    font-family: "Rubik", sans-serif ;
+   
+
+}
+.exp_1 h2{
+    font-weight: 700;
+    font-size:40px;
+    line-height:56px;
+    color:#352D23;
+    font-family: "Rubik", sans-serif ;
+}
+.exp_1 p{
+    font-weight: 400;
+    font-size:18px;
+    line-height:28px;
+    color:#352D23;
+    width:458.67px;
+    font-family: "Rubik", sans-serif ;
+}
+.time{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    
+}
+.present h2{
+    padding-top:12px;
+    font-family: "Rubik", sans-serif ;
+}
+.exp_2{
+    margin-top:29px;
+}
+#award{
+    padding: 584px 0;
+    background-color: #1E1E1E;
+    
+}
+.aw{
+    position:relative;
+    padding:89px 45px;
+}
+
+.aw_1 h2{
+   text-align:center;
+   font-weight: 800;
+    font-size:40px;
+    line-height:21.33px;
+    color:rgba(255, 255, 255, 1);
+    position:absolute;
+    top:-23px;
+    left:650px;
+    width:172px;
+    font-family: "Rubik", sans-serif ;
+
+   
+}
+.aw_1 p{
+    text-align:center;
+    width:541px;
+    font-weight: 400;
+    font-size:18px;
+    line-height:21.33px;
+    color:rgba(255, 255, 255, 0.5);
+    letter-spacing:3%;
+    top:35px;
+    left:470px;
+    position:absolute;
+    font-family: "Rubik", sans-serif ;
+
+}
+.p{
+    position:absolute;
+    left:200px;
+}
+.p1{
+    position:absolute;
+    left:200px;
+    margin-top:340px;
+
+}
+.aw_design{
+  width:1041px;
+  height:219px;
+   padding:24px 25px;
+   background:rgba(0, 0, 0, 1);
+  
+   
+  
+}
+.aw_design1{
+    
+    width:1041px;
+    height:219px;
+     padding:24px 25px;
+     background:rgba(0, 0, 0, 1);
+    
+     
+    
+  }
+
+
+
+.aw_des{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+}
+.aw_des1{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+}
+.aw_des h2{
+    font-weight: 400;
+    font-size:24px;
+    line-height:28px;
+    color:rgba(255, 255, 255, 1);
+    font-family: "Rubik", sans-serif ;
+}
+.aw_des1 h2{
+    font-weight: 400;
+    font-size:24px;
+    line-height:28px;
+    color:rgba(255, 255, 255, 1);
+    font-family: "Rubik", sans-serif ;
+
+}
+.aw_des h3{
+    font-weight: 700;
+    font-size:18px;
+    line-height:28px;
+    color:rgba(255, 255, 255, 1);
+    font-family: "Rubik", sans-serif ;
+
+}
+.aw_des1 h3{
+    font-weight: 700;
+    font-size:18px;
+    line-height:28px;
+    color:rgba(255, 255, 255, 1);
+
+}
+.aw_design p{
+    padding-top:12px;
+    font-weight: 400;
+    font-size:18px;
+    line-height:28px;
+    color:rgba(255, 255, 255, 0.5);
+    width:663px;
+    font-family: "Rubik", sans-serif ;
+  
+    
+   
+   
+}
+.aw_design1 p{
+    padding-top:12px;
+    font-weight: 400;
+    font-size:18px;
+    line-height:28px;
+    color:rgba(255, 255, 255, 0.5);
+    width:663px;
+    font-family: "Rubik", sans-serif ;
+   
+   
+}
+#portfolio{
+    padding: 74px 0;
+    background-color: #1E1E1E;
+    position:relative;
+    
+
+}
+.aw_1 h2.port{
+    text-align:center;
+    font-weight: 800;
+     font-size:40px;
+     line-height:21.33px;
+     color:rgba(255, 255, 255, 1);
+     position:absolute;
+     top:-23px;
+     left:605px;
+     width:295px;
+     font-family: "Rubik", sans-serif ;
+    
+ }
+ .port_btn{
+    top:190px;
+   
+    position:absolute;
+     left:505px;
+ }
+ .port_btn ul{
+    text-align:center;
+    display:flex;
+
+ }
+ .port_btn ul li{
+    padding:10px 20px;
+   margin:0 4px;
+    background:rgba(0, 0, 0, 1);
+    color:rgba(255, 255, 255, 1);
+    font-family: "Rubik", sans-serif ;
+ }
+ .port_btn ul li:hover{
+    background:rgba(253, 111, 0, 1);
+    color:rgba(0, 0, 0, 1);
+
+
+ }
+ .bally{
+    margin-top:120px;
+    display:flex;
+    justify-content:space-around;
+    align-items:center;
+ }
+ .case_stdy h3{
+   font-style:italic;
+   padding-top:7px;
+    font-weight: 600;
+     font-size:18px;
+     line-height:24px;
+     color:rgba(255, 255, 255, 1);
+     font-family: "Rubik", sans-serif ;
+
+ }
+ .case_stdy h2{
+    padding-bottom:8px;
+    font-weight: 700;
+     font-size:40px;
+     line-height:40px;
+     color:rgba(255, 255, 255, 1);
+     font-family: "Rubik", sans-serif ;
+ }
+ .case_stdy p{
+    padding-top:8px;
+    width:559px;
+    font-weight: 400;
+     font-size:18px;
+     line-height:21.33px;
+     letter-spacing:3%;
+     color:rgba(255, 255, 255, 1);
+     font-family: "Rubik", sans-serif ;
+
+ }
+ #form{
+    padding:165px 98px;
+    background-color: #1E1E1E;
+    position:relative;
+ }
+ .aw_1 h4.cntct{
+    font-weight: 600;
+     font-size:18px;
+     font-style:italic;
+     line-height:24px;
+     position:absolute;
+     top:-67px;
+     left:655px;
+     
+     color:rgba(255, 255, 255, 1);
+     font-family: "Rubik", sans-serif ;
+
+
+ }
+ .aw_1 h2.rch{
+    font-weight: 700;
+     font-size:40px;
+     line-height:56px;
+     color:rgba(255, 255, 255, 1);
+     width:297px; 
+     left:555px;
+     font-family: "Rubik", sans-serif ;
+
+ } 
+ .frm_1{
+    background-color:rgba(253, 111, 0, 0.1);
+    
+    padding:67px 65px;
+    margin:0 auto;
+    
+ }
+ .frm_1 h2{
+    top:350px;
+    left:289px;
+    position:absolute;
+    font-weight: 700;
+    font-size:40px;
+    line-height:48px;
+    color:rgba(255, 255, 255, 1);
+    font-family: "Rubik", sans-serif ;
+ }
+ .frm_en{
+    display:flex;
+    justify-content:space-around;
+    margin-top:24px
+ }
+input{
+    padding:9px 34px;
+    font-size:23px;
+}
+.txt{
+    margin-top:56px;
+    margin-left:126px
+}
+textarea {
+    width: 100%;
+    height: 100px;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    background-color: #f8f8f8;
+    font-size: 16px;
+    resize: none;
+  }
+  .frm_btn{
+    margin-top:87px;
+    margin-left:123px;
+  }
+  .frm_btn a{
+    padding: 18px 26px;
+    background: #FD6F00;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 24.89px;
+    color: #FFFFFF;
+    font-family: "Rubik", sans-serif ;
+    
+
+  }
+  .att{
+    font-weight: 500;
+    font-size:16px;
+    line-height:24px;
+    color:rgba(255, 255, 255, 1);
+   
+  }
+  #footer{
+    padding:89px 0;
+    background:rgba(0, 0, 0, 1);
+    position:relative;
+
+  }
+
+  .ft_li ul{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    
+
+  }
+  .ft_li{
+    margin-top:67px;
+  }
+  .ft_li ul li{
+    padding:0 12px;
+    font-weight: 500;
+    font-size:16px;
+    line-height:24px;
+    font-family: "Rubik", sans-serif ;
+    color:rgba(255, 255, 255, 1);
+
+  }
+  .ft_im{
+   
+    position:absolute;
+    left:588px;
+    top:-8px; 
+  }
+  .ft_im h2{
+  
+    font-weight: 700;
+    font-size:64px;
+    line-height:96px;
+    letter-spacing:3%;
+    color:rgba(253, 111, 0, 1);
+    width:186px;
+    font-family: "Poppins", sans-serif ;
+   
+   
+  
+  }
+  .ft_icon{
+   
+  }
+  .ft_bn {
+    display:flex;
+    position:absolute;
+    left:598px;
+   top:230px;
+   margin-top:12px;
+
+  }
+  .ft_bn i{
+    padding:0 12px;
+  }
+  #lst_logo{
+    padding:23px 0;
+    background:rgba(18, 18, 18, 1);
+    position:relative;
+
+  }
+.ft_last{
+
+}
+.ft_last p{
+    text-align:center;
+    font-weight: 400;
+    font-size:21px;
+    line-height:31.5px;
+    font-family: "Poppins", sans-serif ;
+    letter-spacing:3%;
+    color:rgba(255, 255, 255, 1);
+}
+.ft_last span{
+    text-align:center;
+    font-weight: 700;
+    font-size:21px;
+    line-height:31.5px;
+    font-family: "Poppins", sans-serif ;
+    letter-spacing:3%;
+    color:rgba(253, 111, 0, 1);
+
+}
